@@ -4,3 +4,4 @@ pylatexenc
 python-dotenv
 seaborn
 networkx
+azure-quantum[qiskit]

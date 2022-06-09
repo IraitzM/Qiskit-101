@@ -1,0 +1,6 @@
+qiskit
+matplotlib
+pylatexenc
+python-dotenv
+seaborn
+networkx

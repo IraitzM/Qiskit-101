@@ -5,3 +5,5 @@ python-dotenv
 seaborn
 networkx
 azure-quantum[qiskit]
+pyqubo
+dwave-system
